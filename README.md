@@ -4,8 +4,9 @@
 
 <!-- Programmer Image -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/01/10/19/05/computer-1967017_1280.png" alt="Programmer" height="200"/>
+  <img src="https://wallpapers.com/images/featured/developer-72jhod1nue6eytsm.jpg" alt="Programmer Wallpaper" width="600"/>
 </p>
+
 
 - 🌱 I’m currently learning **SOFTWARE ENGINEERING**  
   - I'm diving deep into the world of software development, exploring both frontend and backend technologies.  
