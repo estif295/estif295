@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />, I'm ESTIFANOS SHAMBEL
 </h1>
-
+ 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=440&lines=A+Frontend+Developer+from+Ethiopia;Software+Engineering+Student;Tech+Enthusiast+%26+Lifelong+Learner" alt="Typing animation" />
 </h3>
