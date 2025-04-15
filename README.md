@@ -1,24 +1,29 @@
 <h1 align="center">Hi 👋, I'm ESTIFANOS SHAMBEL</h1>
 
-<h3 align="center">A passionate frontend developer from ETHIOPIA</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=440&lines=A+Frontend+Developer+from+Ethiopia;Software+Engineering+Student;Lifelong+Learner+%26+Tech+Enthusiast" alt="Typing animation" />
+</h3>
 
 <!-- Programmer Image -->
 <p align="center">
   <img src="https://wallpapers.com/images/featured/developer-72jhod1nue6eytsm.jpg" alt="Programmer Wallpaper" width="600"/>
 </p>
 
+---
+
+### 🚀 About Me
 
 - 🌱 I’m currently learning **SOFTWARE ENGINEERING**  
   - I'm diving deep into the world of software development, exploring both frontend and backend technologies.  
-  - My current focus is on mastering clean code principles, building responsive web applications, and understanding system design.  
-  - I enjoy solving real-world problems through code and continuously challenging myself to grow as a developer.  
-  - I’m passionate about building user-friendly digital experiences and learning new technologies that push the boundaries of what’s possible.  
+  - Focused on clean code, responsive UI, and system design.  
+  - Passionate about solving real-world problems through code.  
+  - Always excited to learn and grow as a developer.  
 
-- 📫 How to reach me **estifanosshambel295@gmail.com**
+- 📫 Reach me at **estifanosshambel295@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📱 Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/c/estifanosshambel" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
@@ -36,24 +41,46 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.android.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Graphs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Estifanos GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
