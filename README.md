@@ -83,15 +83,7 @@
 
 ---
 
-### 🐍 GitHub Snake Contribution Animation
 
-<p align="center">
-  <img src="https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 🌊 Fun Waves
 
 ```html
 <!-- Fancy SVG Wave -->
