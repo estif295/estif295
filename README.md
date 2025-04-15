@@ -4,10 +4,15 @@
 
 <!-- Programmer Image -->
 <p align="center">
-  <img src="" alt="Programmer" height="200"/>
+  <img src="https://cdn.pixabay.com/photo/2017/01/10/19/05/computer-1967017_1280.png" alt="Programmer" height="200"/>
 </p>
 
 - 🌱 I’m currently learning **SOFTWARE ENGINEERING**  
+  - I'm diving deep into the world of software development, exploring both frontend and backend technologies.  
+  - My current focus is on mastering clean code principles, building responsive web applications, and understanding system design.  
+  - I enjoy solving real-world problems through code and continuously challenging myself to grow as a developer.  
+  - I’m passionate about building user-friendly digital experiences and learning new technologies that push the boundaries of what’s possible.  
+
 - 📫 How to reach me **estifanosshambel295@gmail.com**
 
 ---
@@ -17,7 +22,6 @@
   <a href="https://www.youtube.com/c/estifanosshambel" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
- 
   <a href="https://www.facebook.com/yourusername" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
