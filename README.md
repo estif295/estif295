@@ -77,31 +77,7 @@
 
 # 🌐 Connect With Me
 
-<p align="center">
 
-<a href="https://www.youtube.com/c/estifanosshambel">
-<img src="https://skillicons.dev/icons?i=youtube" width="40"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=twitter" width="40"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=facebook" width="40"/>
-</a>
-
-<a href="https://github.com/estif295">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
-</a>
-
-</p>
-
----
 
 # 📫 Contact
 
