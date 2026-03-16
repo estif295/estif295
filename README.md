@@ -78,8 +78,6 @@
 
 ---
 
-<!-- ==================== Animated Human Walking Footer ==================== -->
-<!-- ==================== Walking Human with Banner Footer ==================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6MbrWhD58CnM5Bu0/giphy.gif" alt="Walking Full Stack Developer Banner" width="250"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Software Engineer Walking Animation" width="200"/>
 </p>
