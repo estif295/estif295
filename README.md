@@ -69,7 +69,23 @@
 
 ---
 
+# 🚀 Featured Projects
 
+<p align="center">
+<a href="https://github.com/estif295/user-registration-fullstack">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=estif295&repo=user-registration-fullstack&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/estif295/socket-chat">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=estif295&repo=socket-chat&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/estif295/movie-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=estif295&repo=movie-website&theme=tokyonight"/>
+</a>
+</p>
+
+---
 
 # 💡 Dev Quote
 
@@ -79,6 +95,11 @@
 
 ---
 
+# 🎵 Coding Music (Spotify Style)
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31&cover_image=true&theme=novatorem"/>
+</p>
 
 ---
 
