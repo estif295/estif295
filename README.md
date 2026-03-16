@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=550&lines=Full+Stack+Developer;Frontend+Developer+from+Ethiopia;Software+Engineering+Student;React+%7C+Node+%7C+MongoDB+Developer" />
 </h3>
 
-<p align="center">
-  <img src="https://wallpapers.com/images/featured/developer-72jhod1nue6eytsm.jpg" width="650">
-</p>
+
 
 ---
 
