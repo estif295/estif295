@@ -72,13 +72,13 @@
 
 ---
 
+# 📫 Contact
+
+📧 Email: estifanosshambel295@gmail.com  
 
 ---
 
-
-
-
-
-# 📫 Contact
-
-📧 Email: estifanosshambel295@gmail.com
+<!-- ==================== Animated Human Walking Footer ==================== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Software Engineer Walking Animation" width="200"/>
+</p>
